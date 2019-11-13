@@ -1,0 +1,9 @@
+.box {
+  width: 100px;
+  height: 300px;
+  border: 1px solid black;
+}
+
+.greenBox {
+  background-color: rgb(17, 148, 0);
+}
