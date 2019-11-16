@@ -1,4 +1,9 @@
 # Simple App
+``` 
+cd  apps/simple-app-1 
+npm install
+npm run dev
+```
 
 # Feature Branch
 
